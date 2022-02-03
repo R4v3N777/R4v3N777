@@ -1,3 +1,5 @@
+[1[1].txt](https://github.com/R4v3N777/R4v3N777/files/7991494/1.1.txt)
+[README.md](https://github.com/R4v3N777/R4v3N777/files/7991498/README.md)
 # ps4debug
 This is a debugger for the PlayStation 4. Yes thats right! Look around and you will find some very useful tools online or on the PS4 Source Discord channel. Anything is possible, except kernel mode debugging, which I decided to leave out.
 
